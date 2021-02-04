@@ -155,7 +155,6 @@
 }
 .details-box h1{
     font-size: 3rem;
-    padding-top: 70px;
     font-family: 'Meddon', cursive;
 }
 .details-box img{
@@ -179,6 +178,9 @@
     #about-headings p {
         font-size: 1.2rem;
         font-weight: normal;
+    }
+    .details-box {
+        padding: 0vh 0vh;
     }
 
     .box {

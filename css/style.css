@@ -403,7 +403,7 @@ border-radius: 10px;
 /* details of ftrd-cards and gallery cards  */
 .details-box {
     background-color: rgb(255, 240, 242);
-    padding: 10vh;
+    padding: 10vh 0vh;
     display: flex;
     align-items: center;
     flex-direction: column;
