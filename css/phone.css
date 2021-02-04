@@ -1,0 +1,262 @@
+/* HOME PAGE  */
+#logo h2{
+    position: absolute;
+    top: 20%;
+}
+#ul1 {
+    display: flex;
+    padding: 30px;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    top: 70px;
+    width: 100%;
+    height: 45vh;
+    left: 0%;
+    background-color: white;
+    border-radius: 30px;
+    display: none;
+}
+#ul1 span{
+    position: relative;
+    left: 40%;
+    width: 100%;
+    text-align: center;
+}
+#ul1 span:nth-child(2){
+   top: 12%;
+}
+#ul1 span:nth-child(3){
+   top: 24%;
+}
+#ul1 span:nth-child(4) {
+    top: 36%;
+    border-bottom: none;
+    width: 80%;
+    text-align: center;
+}
+#toggle{
+    display: block;
+}
+#image h1{
+    font-size: 2.2rem;
+}
+#featured{
+    flex-wrap: wrap;
+}
+#featured h2{
+    font-size: 2rem;
+}
+#featured p{
+    font-size: 1rem;
+    padding: 6px;
+}
+#featured-cards{
+    flex-wrap: wrap;
+}
+.ftrd-card {
+    width: 300px;
+    margin: 10px;
+}
+#section2 h1{
+    font-size: 2.6rem;
+}
+#video{
+   width: 85%;
+}
+#vid-nav{
+   width: 85%;
+}
+.vid-cntnt{
+    height: 65px;
+    width: 85%;
+}
+#vid-nav ul a {
+    font-size: 1rem;
+}
+#vid-nav ul {
+    width: 100%;
+}
+#vid-nav ul li {
+    margin: 0px;
+}
+#section2 #video-content h1 {
+    font-size: 1.6rem;
+    margin-bottom: 0;
+}
+#section2 #video-content p {
+    font-size: 1rem;
+}
+.footer1-div h1 {
+    font-size: 2rem;
+    margin-bottom: 0px;
+}
+.footer1-div:nth-child(1) {
+    width: auto;
+    padding: 0px;
+}
+#footer1{
+    flex-direction: column;
+    height: auto;
+}
+.footer1-div:nth-child(1),
+.footer1-div {
+    border-bottom: 1px solid #1e3f4d;
+    width: 100%;
+    padding:8px 12px;
+}
+.footer1-div:nth-child(4){
+      border-bottom: none;
+}
+.footer1-div p {
+    font-size: 0.8rem;
+    width: 100%;
+    margin-bottom: 0px;
+}
+.footer1-div ul {
+   display: flex;
+   flex-direction: row;
+   margin-bottom: 0px;
+}
+.footer1-div ul li {
+  margin: 0px 5px;
+}
+.footer1-div ul li a {
+    font-size: 0.8rem;
+}
+.footer1-div h6 {
+    font-size: 1.1rem;
+}
+.footer1-div .footer-icon {
+    width: 20px;
+    height: 20px;
+}
+#footer2{
+    flex-direction: column;
+    padding: 0px;
+    height: 11vh;
+}
+#footer2 p{
+    font-size: 0.8rem;
+}
+.footer2-div{
+    width: 100%;
+    text-align: center;
+}
+#footer2 a {
+    font-size: 0.8rem;
+    margin: 8px;
+}
+.gallery-box{
+    flex-direction: column;
+}
+.gallery-box .para{
+    width: 90%;
+}
+.details-box h1{
+    font-size: 3rem;
+    padding-top: 70px;
+    font-family: 'Meddon', cursive;
+}
+.details-box img{
+    width: 100%;
+}
+
+/* ABOUT PAGE ...................................... */
+
+    #toggle {
+        display: block;
+    }
+
+    #ul2 span {
+        display: none;
+    }
+
+    #about-headings h1 {
+        font-size: 3rem;
+    }
+
+    #about-headings p {
+        font-size: 1.2rem;
+        font-weight: normal;
+    }
+
+    .box {
+        flex-direction: column-reverse;
+        padding: 5px;
+        width: 95%;
+        margin-bottom: 10px;
+    }
+
+    .box-text {
+        width: 95%;
+    }
+
+    .box-text h3 {
+        font-size: 2.6rem;
+        text-align: center;
+    }
+
+    .box-text p {
+        font-size: 1.4rem;
+        text-align: center;
+    }
+
+    .text-2 p {
+        text-align: center;
+    }
+
+    .box-img {
+        width: 95%;
+    }
+    /* GALLERIES PAGE ............................. */
+          
+    #section2 h1 {
+        font-size: 3rem;
+        text-align: center;
+    }
+                
+                .gallery-box {
+                    flex-direction: column;
+                }
+                .gallery-box .para {
+        width: 90%;
+    }
+    
+                .gallery-box img {
+                    width: 100%;
+                }
+    
+                #ul2 span {
+                    display: none;
+                }
+    
+                #toggle {
+                    display: block;
+                }
+    
+    
+                .card-cont {
+                    width: 90%;
+                    height: auto;
+                }
+    
+                .card {
+                    width: 300px;
+                }
+    
+                #section2 {
+                    background-color: rgb(252, 241, 213);
+                }
+    
+            
+    /* CONTACT PAGE .............................. */
+    p{
+        font-size: 1.2rem;
+ 
+#toggle{
+display: block;
+}
+#ul2 span{
+display: none;
+}

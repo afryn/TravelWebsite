@@ -1,0 +1,62 @@
+{
+    "chicago": {
+        "img": "../images/gllry11.jpg",
+        "heading": "Chicago",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti praesentium perferendis expedita voluptas laborum? Laboriosam consequuntur quia magni, tempore qui consectetur soluta unde quibusdam eos reprehenderit recusandae asperiores et assumenda ullam similique dolores neque itaque at numquam maiores, quasi veniam perspiciatis exercitationem cum. Quam eum ea neque! Architecto placeat nihil adipisci, rem veniam explicabo ratione debitis nisi minus autem sint praesentium inventore consequatur? Quidem sequi facilis corrupti corporis ea temporibus."
+    },
+    "dubai": {
+        "img": "../images/gllry4.jpg",
+        "heading": "Dubai",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti praesentium perferendis expedita voluptas laborum? Laboriosam consequuntur quia magni, tempore qui consectetur soluta unde quibusdam eos reprehenderit recusandae asperiores et assumenda ullam similique dolores neque itaque at numquam maiores, quasi veniam perspiciatis exercitationem cum. Quam eum ea neque! Architecto placeat nihil adipisci, rem veniam explicabo ratione debitis nisi minus autem sint praesentium inventore consequatur? Quidem sequi facilis corrupti corporis ea temporibus."
+    },
+    "jaipur": {
+        "img": "../images/gllry9.jpg",
+        "heading": "Jaipur",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti praesentium perferendis expedita voluptas laborum? Laboriosam consequuntur quia magni, tempore qui consectetur soluta unde quibusdam eos reprehenderit recusandae asperiores et assumenda ullam similique dolores neque itaque at numquam maiores, quasi veniam perspiciatis exercitationem cum. Quam eum ea neque! Architecto placeat nihil adipisci, rem veniam explicabo ratione debitis nisi minus autem sint praesentium inventore consequatur? Quidem sequi facilis corrupti corporis ea temporibus."
+    },
+    "london": {
+        "img": "../images/gllry6.jpg",
+        "heading": "London",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti praesentium perferendis expedita voluptas laborum? Laboriosam consequuntur quia magni, tempore qui consectetur soluta unde quibusdam eos reprehenderit recusandae asperiores et assumenda ullam similique dolores neque itaque at numquam maiores, quasi veniam perspiciatis exercitationem cum. Quam eum ea neque! Architecto placeat nihil adipisci, rem veniam explicabo ratione debitis nisi minus autem sint praesentium inventore consequatur? Quidem sequi facilis corrupti corporis ea temporibus."
+    },
+    "los angeles": {
+        "img": "../images/gllry8.jpg",
+        "heading": "Los Angeles",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti praesentium perferendis expedita voluptas laborum? Laboriosam consequuntur quia magni, tempore qui consectetur soluta unde quibusdam eos reprehenderit recusandae asperiores et assumenda ullam similique dolores neque itaque at numquam maiores, quasi veniam perspiciatis exercitationem cum. Quam eum ea neque! Architecto placeat nihil adipisci, rem veniam explicabo ratione debitis nisi minus autem sint praesentium inventore consequatur? Quidem sequi facilis corrupti corporis ea temporibus."
+    },
+    "moscow": {
+        "img": "../images/gllry2.jpg",
+        "heading": "Moscow",
+        "para": "The very founding site of the city (and arguably, the country), the Kremlin and Red Square are still at the heart of Moscow – historically, geographically and spiritually. Feel the weight of this significance as you wander within the walls of the ancient fortress, marvel at the mind-boggling magnificence of St Basil's Cathedral and pay your respects to the revered leader of a now-defunct state. Moscow will move you. It will tantalise your senses, soothe your spirit and boggle your mind – and it all starts right here at the Kremlin and Red Square."
+    },
+    "new york": {
+        "img": "../images/gllry7.jpg",
+        "heading": "New York",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti praesentium perferendis expedita voluptas laborum? Laboriosam consequuntur quia magni, tempore qui consectetur soluta unde quibusdam eos reprehenderit recusandae asperiores et assumenda ullam similique dolores neque itaque at numquam maiores, quasi veniam perspiciatis exercitationem cum. Quam eum ea neque! Architecto placeat nihil adipisci, rem veniam explicabo ratione debitis nisi minus autem sint praesentium inventore consequatur? Quidem sequi facilis corrupti corporis ea temporibus."
+    },
+    "paris": {
+        "img": "../images/gllry1.jpg",
+        "heading": "Paris",
+        "para": "Captivating with its rich history and fascinating culture, the city of Paris is instantly recognizable and is easy to fall in love with. It’s simply hard to resist the temptation of a city that glows with such glamor and grandeur. Which is why Paris finds a place on every traveler’s bucket list, especially us – Indians. So, if you are from India and are looking to visit Paris for the first time, then you would surely be stuck with a lot of doubts – when to visit, what to pack and what to see. Hold on, don’t start panicking again! Here is a practical Paris guide for Indians that will ease you and offer you the best of Paris."
+    },
+    "rome": {
+        "img": "../images/gllry10.jpg",
+        "heading": "Rome",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti praesentium perferendis expedita voluptas laborum? Laboriosam consequuntur quia magni, tempore qui consectetur soluta unde quibusdam eos reprehenderit recusandae asperiores et assumenda ullam similique dolores neque itaque at numquam maiores, quasi veniam perspiciatis exercitationem cum. Quam eum ea neque! Architecto placeat nihil adipisci, rem veniam explicabo ratione debitis nisi minus autem sint praesentium inventore consequatur? Quidem sequi facilis corrupti corporis ea temporibus."
+    },
+    "san francisco": {
+        "img": "../images/gllry12.jpg",
+        "heading": "San Francisco",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti praesentium perferendis expedita voluptas laborum? Laboriosam consequuntur quia magni, tempore qui consectetur soluta unde quibusdam eos reprehenderit recusandae asperiores et assumenda ullam similique dolores neque itaque at numquam maiores, quasi veniam perspiciatis exercitationem cum. Quam eum ea neque! Architecto placeat nihil adipisci, rem veniam explicabo ratione debitis nisi minus autem sint praesentium inventore consequatur? Quidem sequi facilis corrupti corporis ea temporibus."
+    },
+    "singapore": {
+        "img": "../images/gllry5.jpg",
+        "heading": "Singapore",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti praesentium perferendis expedita voluptas laborum? Laboriosam consequuntur quia magni, tempore qui consectetur soluta unde quibusdam eos reprehenderit recusandae asperiores et assumenda ullam similique dolores neque itaque at numquam maiores, quasi veniam perspiciatis exercitationem cum. Quam eum ea neque! Architecto placeat nihil adipisci, rem veniam explicabo ratione debitis nisi minus autem sint praesentium inventore consequatur? Quidem sequi facilis corrupti corporis ea temporibus."
+    },
+    "tokyo": {
+        "img": "../images/gllry3.jpg",
+        "heading": "Tokyo",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti praesentium perferendis expedita voluptas laborum? Laboriosam consequuntur quia magni, tempore qui consectetur soluta unde quibusdam eos reprehenderit recusandae asperiores et assumenda ullam similique dolores neque itaque at numquam maiores, quasi veniam perspiciatis exercitationem cum. Quam eum ea neque! Architecto placeat nihil adipisci, rem veniam explicabo ratione debitis nisi minus autem sint praesentium inventore consequatur? Quidem sequi facilis corrupti corporis ea temporibus."
+    }
+}
