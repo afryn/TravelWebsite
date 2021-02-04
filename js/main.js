@@ -107,7 +107,7 @@ $(document).ready(function () {
         li.addEventListener('click', (e) => {
             e.preventDefault()
             let id = e.target.getAttribute('id');
-            video.src = `images/video${id}.mp4`
+            video.src = `./images/video${id}.mp4`
             $('.vid-cntnt').hide()
             $(`.cntnt${id}`).show()
         });
