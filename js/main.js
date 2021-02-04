@@ -172,7 +172,7 @@ $(document).ready(function () {
 
             let xhr = new XMLHttpRequest();
 
-            xhr.open('GET', "../js/gallery.json", true);
+            xhr.open('GET', "js/gallery.json", true);
 
             xhr.onprogress = function () {
                 section2.innerHTML = "loading"
